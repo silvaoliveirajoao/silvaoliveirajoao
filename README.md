@@ -7,10 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
-
-
 ## 
 
 <div style="display: inline-block" align="center">
