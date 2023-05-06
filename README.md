@@ -4,8 +4,12 @@
 - 🌱 Estudando React, Tailwind e NextJS/ MongoDB e MySQL
 - 📫 Entre em contato comigo átraves do e-mail: jpoliveira.log@gmail.com
 - 😄 Pronomes: Ele/Dele
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
+</div>
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
+</div>
 
 ## 
 
@@ -24,7 +28,7 @@
 ##
 
 <div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:jpoliveira.log@gmailc.om" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silvaoliveirajoao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/highjhones/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
