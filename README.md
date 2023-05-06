@@ -4,12 +4,12 @@
 - 🌱 Estudando React, Tailwind e NextJS/ MongoDB e MySQL
 - 📫 Entre em contato comigo átraves do e-mail: jpoliveira.log@gmail.com
 - 😄 Pronomes: Ele/Dele
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
-</div>
-<div align="center">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
-</div>
+
 
 ## 
 
