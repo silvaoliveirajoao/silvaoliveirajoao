@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente mirando ser um desenvolvedor FullStack!
 - 🌱 Estudando React, Tailwind e NextJS/ MongoDB e MySQL
-- 📫 Entre em contato comigo átraves do e-mail: jpoliveira.log@gmail.com
+- 📫 Entre em contato comigo através do e-mail: jpoliveira.log@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
