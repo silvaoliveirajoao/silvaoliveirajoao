@@ -5,7 +5,6 @@
 - 📫 Entre em contato comigo átraves do e-mail: jpoliveira.log@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=yeblu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 
