@@ -1,7 +1,7 @@
 ## E aí! Eu sou o João!!! 😄
 
-- 🔭 Atualmente mirando ser um desenvolvedor FullStack!
-- 🌱 Estudando React, Tailwind e NextJS/ MongoDB e MySQL
+- 🔭 Atualmente mirando ser um desenvolvedor Front-End!
+- 🌱 Estudando NextJS e StyledComponents.
 - 📫 Entre em contato comigo através do e-mail: jpoliveira.log@gmail.com
 - 😄 Pronomes: Ele/Dele
 
