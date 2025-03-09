@@ -1,9 +1,6 @@
-## E aí! Eu sou o João!!! 😄
-
-- 🔭 Atualmente mirando ser um desenvolvedor Front-End!
-- 🌱 Estudando NextJS e StyledComponents.
+- 🔭 Desenvolvedor FullStack (Nextjs/NodeJS)
+- 🌱 Cursando ADS na PUCRS.
 - 📫 Entre em contato comigo através do e-mail: jpoliveira.log@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ## 
