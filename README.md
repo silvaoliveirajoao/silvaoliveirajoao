@@ -1,26 +1,42 @@
-- 🔭 Desenvolvedor FullStack (Typescript/NodeJS)
-- 🌱 Cursando ADS na PUCRS.
-- 📫 Contato através do e-mail: jpoliveira.log@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut&theme=onedark&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=onedark)
-## 
+<p align="center">- 🔭 Desenvolvedor FullStack (Typescript/NodeJS)</p>
+<p align="center">- 🌱 Cursando ADS na PUCRS.</p>
+<p align="center">- 📫 Contato através do e-mail: jpoliveira.log@gmail.com</p>
 
+---
 <div style="display: inline-block" align="center">
-<img align="center" alt="JavaScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" />
-<img align="center" alt="TypeScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" />
-<img align="center" alt="HTML" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" />
-<img align="center" alt="CSS" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" />
-<img align="center" alt="MySQL" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" />
-<img align="center" alt="SQLite" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" />
-<img align="center" alt="Firebase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true" />
-<img align="center" alt="Supabase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true" />
-<img align="center" alt="React" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" />
-<img align="center" alt="APIs" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" />
-<img align="center" alt="GitHub" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" />
-<img align="center" alt="PrismaORM" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_prisma.png?raw=true" />
-<img align="center" alt="Figma" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" />
-<img align="center" alt="Markdown" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" />
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut&theme=onedark&custom_title=Linguagens%20mais%20utilizadas&locale=pt-br" 
+  /> 
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=onedark&locale=pt-br" 
+  />
+</div>
+
+---
+<br>
+<div style="display: inline-block" align="center">
+  <img align="center" alt="JavaScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" />
+  <img align="center" alt="TypeScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" />
+  <img align="center" alt="HTML" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" />
+  <img align="center" alt="CSS" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" />
+  <img align="center" alt="MySQL" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" />
+  <img align="center" alt="SQLite" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" />
+  <img align="center" alt="Firebase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true" />
+  <img align="center" alt="Supabase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true" />
+  <img align="center" alt="React" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" />
+  <img align="center" alt="APIs" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" />
+  <img align="center" alt="GitHub" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" />
+  <img align="center" alt="PrismaORM" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_prisma.png?raw=true" />
+  <img align="center" alt="Figma" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" />
+  <img align="center" alt="Markdown" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" />
 </div>
 
 ##
