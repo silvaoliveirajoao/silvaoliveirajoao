@@ -1,7 +1,7 @@
 
-<p align="center">- 🔭 Desenvolvedor FullStack (Typescript/NodeJS)</p>
-<p align="center">- 🌱 Cursando ADS na PUCRS.</p>
-<p align="center">- 📫 Contato através do e-mail: jpoliveira.log@gmail.com</p>
+<p align="left">- 🔭 Desenvolvedor FullStack (Typescript/NodeJS)</p>
+<p align="left">- 🌱 Cursando ADS na PUCRS.</p>
+<p align="left">- 📫 Contato através do e-mail: jpoliveira.log@gmail.com</p>
 
 ---
 <div style="display: inline-block" align="center">
