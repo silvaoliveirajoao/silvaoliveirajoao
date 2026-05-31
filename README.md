@@ -1,42 +1,91 @@
-<div style="display: inline-block" align="center">
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=donut&theme=onedark&custom_title=Linguagens%20mais%20utilizadas&locale=pt-br" 
-  /> 
-<img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=onedark&locale=pt-br" 
-  />
-</div>
+<h1 align="center">Hey, I'm João 👋</h1>
+
+<p align="center">
+  Software Engineer • TypeScript • React • Vue.js • Node.js
+</p>
+
+<p align="center">
+  Building scalable, maintainable and API-driven web applications.
+</p>
 
 ---
-<br>
-<div style="display: inline-block" align="center">
-  <img align="center" alt="JavaScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" />
-  <img align="center" alt="TypeScript" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" />
-  <img align="center" alt="HTML" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" />
-  <img align="center" alt="CSS" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" />
-  <img align="center" alt="MySQL" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" />
-  <img align="center" alt="SQLite" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" />
-  <img align="center" alt="Firebase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true" />
-  <img align="center" alt="Supabase" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true" />
-  <img align="center" alt="React" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" />
-  <img align="center" alt="APIs" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" />
-  <img align="center" alt="GitHub" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" />
-  <img align="center" alt="PrismaORM" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_prisma.png?raw=true" />
-  <img align="center" alt="Figma" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" />
-  <img align="center" alt="Markdown" height="64" width="64" src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_markdown.png?raw=true" />
-</div>
 
-##
+## About me
 
-<div align="center">
-  <a href="mailto:jpoliveira.log@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silvaoliveirajoao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/highjhones/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+I'm a Software Developer focused on building modern web apps with strong attention to architecture, state management, maintainability and user experience.
+
+I work mainly with **TypeScript**, **React**, **Vue.js**, **Node.js** and the broader ecosystem around API consumption, scalable UI development and webapps architecture.
+
+Currently based in **Balneário Camboriú, SC — Brazil**.
+
+---
+
+## Tech Stack
+
+### Front-end
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-111?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-111?style=for-the-badge&logo=vuedotjs)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-111?style=for-the-badge&logo=nuxt)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
+
+### Back-end & APIs
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-111?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-111?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-111?style=for-the-badge)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-111?style=for-the-badge&logo=vitest)
+![Jest](https://img.shields.io/badge/Jest-111?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=cypress)
+
+### Data & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-111?style=for-the-badge&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
+
+---
+
+## What I care about
+
+- Clean and scalable UI architecture
+- Domain-Driven Design as the primary guide for software development
+- Type-safe applications
+- Good state management decisions
+- API integration and data flow
+- Maintainable components
+- Product-oriented engineering
+- Developer experience
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silvaoliveirajoao&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaoliveirajoao&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/silvaoliveirajoao">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/silvaoliveirajoao">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  </a>
+</p>
