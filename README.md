@@ -61,13 +61,15 @@ Currently based in **Balneário Camboriú, SC — Brazil**.
 
 ## What I care about
 
-- Clean and scalable UI architecture
+- Modeling software around business domains and ubiquitous language
 - Domain-Driven Design as the primary guide for software development
+- Clean and scalable architecture
 - Type-safe applications
-- Good state management decisions
-- API integration and data flow
-- Maintainable components
+- API-first systems and integration ecosystems
 - Product-oriented engineering
+- Long-term maintainability
+- Testing as a first-class engineering practice
+- Open source and Linux ecosystem
 - Developer experience
 
 ---
